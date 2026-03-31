@@ -50,6 +50,6 @@ This GitHub profile represents my learning journey filled with experiments, proj
 <h4>📌 Design Thinking Project:</h4> CyberCare(CC): A Smart Online Counselling Platform For Cyberbullying Victims<br>
  <h3>📫 You can contact me at: </h3>
 ✉️  Email : sharifahnadiahbalqis@gmail.com <br>
-🔗 LinkedIn : https://www.linkedin.com/in/sharifah-nadiah-balqis-syed-mohd-yusof-865587398/ <br><br>
+🔗 LinkedIn : www.linkedin.com/in/sharifahnadiahbalqis <br><br>
 
 </html>
